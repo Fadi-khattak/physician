@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440334824534",
+    "project_id": "weightloss-f9b95",
+    "storage_bucket": "weightloss-f9b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440334824534:android:2d3829568fbc83b2b4f7f7",
+        "android_client_info": {
+          "package_name": "com.sdh.physician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440334824534-nanf4f4jlsnol8vjrvcvaf0eav9ejk23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxFQsPLc1Yw23VkjDs8-g69RSRNdjXk1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440334824534-nanf4f4jlsnol8vjrvcvaf0eav9ejk23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
